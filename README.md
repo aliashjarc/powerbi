@@ -1,1 +1,3 @@
-# powerbi
+# PowerBI showcase - business analysis of a fictional company
+In this showcase I've analysed a dataset of a fictional company that is struggling with their business performance. Besides deriving main insights, I have analysed the sales and margin performance over different dimensions and explored the insights regarding the shipping cost performance. Customer analysis included segmentation of customers, based on hierarchical clustering using ward method. 
+Showcase included analysis of pre-existing database, data preprocessing, table joins, forming snowflake scheme and creation of calculations and measured using DAX language. In the end, I've visualized the report using distinct colors and color palette similar to the report recipient.
